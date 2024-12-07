@@ -23,3 +23,7 @@ Methods Available:
 - boolean isSymmetric()
 
 - Object[] arrayAtDepth(int depth)
+
+Contributors: Malvika Gandhe, Yakup Atahanov.
+
+Note: we had a repository before, but we had some issues with it, but the codes did work well. So, we decided to create a new repository (current one).
