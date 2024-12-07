@@ -3,22 +3,22 @@
 Typical Binary Search Tree that we should know
 Methods Available:
 
-\_ boolean addElement(E element)
+- boolean addElement(E element)
 
-\_ BinarySearchNode<E> removeElement(E element)
+- BinarySearchNode<E> removeElement(E element)
 
-\_ boolean containsElement(E element)
+- boolean containsElement(E element)
 
-\_ BinarySearchNode<E> findElement(E element)
+- BinarySearchNode<E> findElement(E element)
 
-\_ public void traversal(int type)
+- public void traversal(int type)
 
-\_ boolean compareBST(BinarySearchTree<E> tree)
+- boolean compareBST(BinarySearchTree<E> tree)
 
-\_ BinarySearchNode<E> findPredecessor()
+- BinarySearchNode<E> findPredecessor()
 
-\_ BinarySearchNode<E> findSuccessor()
+- BinarySearchNode<E> findSuccessor()
 
-\_ boolean isSymmetric()
+- boolean isSymmetric()
 
-\_ Object[] arrayAtDepth(int depth)
+- Object[] arrayAtDepth(int depth)
